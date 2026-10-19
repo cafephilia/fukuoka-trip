@@ -223,8 +223,8 @@ export interface MenuBoard {
   sources?: string[]
 }
 
-export type FoodGenre = '라멘·우동' | '모츠나베·미즈타키' | '해산물·스시' | '야키토리·이자카야' | '야타이' | '카페·디저트'
-export type FoodArea = '하카타' | '나카스' | '텐진' | '다자이후' | '기타큐슈' | '기타'
+export type FoodGenre = '라멘·우동' | '모츠나베·미즈타키' | '해산물·스시' | '야키토리·이자카야' | '야타이' | '야키카레' | '카페·디저트'
+export type FoodArea = '하카타' | '나카스' | '텐진' | '다자이후' | '야나가와' | '모지코·시모노세키' | '기타'
 
 /** SNS·유튜브에서 유명한 맛집 */
 export interface FoodSpot {
